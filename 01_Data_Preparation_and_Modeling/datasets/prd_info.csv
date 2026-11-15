@@ -1,0 +1,296 @@
+prd_id,prd_key,prd_nm,prd_cost,prd_line
+210,CO-RF-FR-R92B-58,HL Road Frame - Black- 58,,R 
+211,CO-RF-FR-R92R-58,HL Road Frame - Red- 58,,R 
+214,AC-HE-HL-U509-R,Sport-100 Helmet- Red,13.0,S 
+217,AC-HE-HL-U509,Sport-100 Helmet- Black,13.0,S 
+218,CL-SO-SO-B909-M,Mountain Bike Socks- M,3.0,M 
+219,CL-SO-SO-B909-L,Mountain Bike Socks- L,3.0,M 
+222,AC-HE-HL-U509-B,Sport-100 Helmet- Blue,13.0,S 
+225,CL-CA-CA-1098,AWC Logo Cap,7.0,S 
+228,CL-JE-LJ-0192-S,Long-Sleeve Logo Jersey- S,38.0,S 
+231,CL-JE-LJ-0192-M,Long-Sleeve Logo Jersey- M,38.0,S 
+234,CL-JE-LJ-0192-L,Long-Sleeve Logo Jersey- L,38.0,S 
+237,CL-JE-LJ-0192-X,Long-Sleeve Logo Jersey- XL,38.0,S 
+240,CO-RF-FR-R92R-62,HL Road Frame - Red- 62,869.0,R 
+243,CO-RF-FR-R92R-44,HL Road Frame - Red- 44,869.0,R 
+246,CO-RF-FR-R92R-48,HL Road Frame - Red- 48,869.0,R 
+249,CO-RF-FR-R92R-52,HL Road Frame - Red- 52,869.0,R 
+252,CO-RF-FR-R92R-56,HL Road Frame - Red- 56,869.0,R 
+255,CO-RF-FR-R38B-58,LL Road Frame - Black- 58,205.0,R 
+258,CO-RF-FR-R38B-60,LL Road Frame - Black- 60,205.0,R 
+261,CO-RF-FR-R38B-62,LL Road Frame - Black- 62,205.0,R 
+263,CO-RF-FR-R38R-44,LL Road Frame - Red- 44,187.0,R 
+265,CO-RF-FR-R38R-48,LL Road Frame - Red- 48,187.0,R 
+267,CO-RF-FR-R38R-52,LL Road Frame - Red- 52,187.0,R 
+269,CO-RF-FR-R38R-58,LL Road Frame - Red- 58,187.0,R 
+271,CO-RF-FR-R38R-60,LL Road Frame - Red- 60,187.0,R 
+273,CO-RF-FR-R38R-62,LL Road Frame - Red- 62,187.0,R 
+274,CO-RF-FR-R72R-44,ML Road Frame - Red- 44,352.0,R 
+275,CO-RF-FR-R72R-48,ML Road Frame - Red- 48,352.0,R 
+276,CO-RF-FR-R72R-52,ML Road Frame - Red- 52,352.0,R 
+277,CO-RF-FR-R72R-58,ML Road Frame - Red- 58,352.0,R 
+278,CO-RF-FR-R72R-60,ML Road Frame - Red- 60,352.0,R 
+281,CO-RF-FR-R38B-44,LL Road Frame - Black- 44,205.0,R 
+284,CO-RF-FR-R38B-48,LL Road Frame - Black- 48,205.0,R 
+287,CO-RF-FR-R38B-52,LL Road Frame - Black- 52,205.0,R 
+290,CO-MF-FR-M94S-42,HL Mountain Frame - Silver- 42,747.0,M 
+291,CO-MF-FR-M94S-44,HL Mountain Frame - Silver- 44,707.0,M 
+292,CO-MF-FR-M94S-52,HL Mountain Frame - Silver- 48,707.0,M 
+295,CO-MF-FR-M94S-46,HL Mountain Frame - Silver- 46,747.0,M 
+298,CO-MF-FR-M94B-42,HL Mountain Frame - Black- 42,739.0,M 
+299,CO-MF-FR-M94B-44,HL Mountain Frame - Black- 44,699.0,M 
+300,CO-MF-FR-M94B-48,HL Mountain Frame - Black- 48,699.0,M 
+303,CO-MF-FR-M94B-46,HL Mountain Frame - Black- 46,739.0,M 
+306,CO-MF-FR-M94B-38,HL Mountain Frame - Black- 38,739.0,M 
+309,CO-MF-FR-M94S-38,HL Mountain Frame - Silver- 38,747.0,M 
+310,BI-RB-BK-R93R-62,Road-150 Red- 62,2171.0,R 
+311,BI-RB-BK-R93R-44,Road-150 Red- 44,2171.0,R 
+312,BI-RB-BK-R93R-48,Road-150 Red- 48,2171.0,R 
+313,BI-RB-BK-R93R-52,Road-150 Red- 52,2171.0,R 
+314,BI-RB-BK-R93R-56,Road-150 Red- 56,2171.0,R 
+315,BI-RB-BK-R68R-58,Road-450 Red- 58,885.0,R 
+316,BI-RB-BK-R68R-60,Road-450 Red- 60,885.0,R 
+317,BI-RB-BK-R68R-44,Road-450 Red- 44,885.0,R 
+318,BI-RB-BK-R68R-48,Road-450 Red- 48,885.0,R 
+319,BI-RB-BK-R68R-52,Road-450 Red- 52,885.0,R 
+321,BI-RB-BK-R50R-58,Road-650 Red- 58,487.0,R 
+323,BI-RB-BK-R50R-60,Road-650 Red- 60,487.0,R 
+325,BI-RB-BK-R50R-62,Road-650 Red- 62,487.0,R 
+327,BI-RB-BK-R50R-44,Road-650 Red- 44,487.0,R 
+329,BI-RB-BK-R50R-48,Road-650 Red- 48,487.0,R 
+331,BI-RB-BK-R50R-52,Road-650 Red- 52,487.0,R 
+333,BI-RB-BK-R50B-58,Road-650 Black- 58,487.0,R 
+335,BI-RB-BK-R50B-60,Road-650 Black- 60,487.0,R 
+337,BI-RB-BK-R50B-62,Road-650 Black- 62,487.0,R 
+339,BI-RB-BK-R50B-44,Road-650 Black- 44,487.0,R 
+341,BI-RB-BK-R50B-48,Road-650 Black- 48,487.0,R 
+343,BI-RB-BK-R50B-52,Road-650 Black- 52,487.0,R 
+344,BI-MB-BK-M82S-38,Mountain-100 Silver- 38,1912.0,M 
+345,BI-MB-BK-M82S-42,Mountain-100 Silver- 42,1912.0,M 
+346,BI-MB-BK-M82S-44,Mountain-100 Silver- 44,1912.0,M 
+347,BI-MB-BK-M82S-48,Mountain-100 Silver- 48,1912.0,M 
+348,BI-MB-BK-M82B-38,Mountain-100 Black- 38,1898.0,M 
+349,BI-MB-BK-M82B-42,Mountain-100 Black- 42,1898.0,M 
+350,BI-MB-BK-M82B-44,Mountain-100 Black- 44,1898.0,M 
+351,BI-MB-BK-M82B-48,Mountain-100 Black- 48,1898.0,M 
+353,BI-MB-BK-M68S-38,Mountain-200 Silver- 38,1266.0,M 
+355,BI-MB-BK-M68S-42,Mountain-200 Silver- 42,1266.0,M 
+357,BI-MB-BK-M68S-46,Mountain-200 Silver- 46,1266.0,M 
+359,BI-MB-BK-M68B-38,Mountain-200 Black- 38,1252.0,M 
+361,BI-MB-BK-M68B-42,Mountain-200 Black- 42,1252.0,M 
+363,BI-MB-BK-M68B-46,Mountain-200 Black- 46,1252.0,M 
+364,BI-MB-BK-M47B-38,Mountain-300 Black- 38,598.0,M 
+365,BI-MB-BK-M47B-40,Mountain-300 Black- 40,598.0,M 
+366,BI-MB-BK-M47B-44,Mountain-300 Black- 44,598.0,M 
+367,BI-MB-BK-M47B-48,Mountain-300 Black- 48,598.0,M 
+368,BI-RB-BK-R89R-44,Road-250 Red- 44,1519.0,R 
+369,BI-RB-BK-R89R-48,Road-250 Red- 48,1519.0,R 
+370,BI-RB-BK-R89R-52,Road-250 Red- 52,1519.0,R 
+372,BI-RB-BK-R89R-58,Road-250 Red- 58,1555.0,R 
+374,BI-RB-BK-R89B-44,Road-250 Black- 44,1555.0,R 
+376,BI-RB-BK-R89B-48,Road-250 Black- 48,1555.0,R 
+378,BI-RB-BK-R89B-52,Road-250 Black- 52,1555.0,R 
+380,BI-RB-BK-R89B-58,Road-250 Black- 58,1555.0,R 
+382,BI-RB-BK-R64Y-38,Road-550-W Yellow- 38,713.0,R 
+384,BI-RB-BK-R64Y-40,Road-550-W Yellow- 40,713.0,R 
+386,BI-RB-BK-R64Y-42,Road-550-W Yellow- 42,713.0,R 
+388,BI-RB-BK-R64Y-44,Road-550-W Yellow- 44,713.0,R 
+390,BI-RB-BK-R64Y-48,Road-550-W Yellow- 48,713.0,R 
+391,CO-FO-FK-1639,LL Fork,66.0,
+392,CO-FO-FK-5136,ML Fork,78.0,
+393,CO-FO-FK-9939,HL Fork,102.0,
+394,CO-HS-HS-0296,LL Headset,15.0,
+395,CO-HS-HS-2451,ML Headset,45.0,
+396,CO-HS-HS-3479,HL Headset,55.0,
+398,CO-HB-HB-M243,LL Mountain Handlebars,20.0,M 
+400,CO-HB-HB-M763,ML Mountain Handlebars,27.0,M 
+402,CO-HB-HB-M918,HL Mountain Handlebars,53.0,M 
+404,CO-HB-HB-R504,LL Road Handlebars,20.0,R 
+406,CO-HB-HB-R720,ML Road Handlebars,27.0,R 
+408,CO-HB-HB-R956,HL Road Handlebars,53.0,R 
+409,CO-MF-FR-M63B-38,ML Mountain Frame - Black- 38,186.0,M 
+410,CO-WH-FW-M423,LL Mountain Front Wheel,27.0,M 
+411,CO-WH-FW-M762,ML Mountain Front Wheel,93.0,M 
+412,CO-WH-FW-M928,HL Mountain Front Wheel,133.0,M 
+413,CO-WH-FW-R623,LL Road Front Wheel,38.0,R 
+414,CO-WH-FW-R762,ML Road Front Wheel,110.0,R 
+415,CO-WH-FW-R820,HL Road Front Wheel,147.0,R 
+416,CO-WH-FW-T905,Touring Front Wheel,97.0,T 
+418,CO-RF-FR-R72Y-38,ML Road Frame-W - Yellow- 38,361.0,R 
+419,CO-WH-RW-M423,LL Mountain Rear Wheel,39.0,M 
+420,CO-WH-RW-M762,ML Mountain Rear Wheel,105.0,M 
+421,CO-WH-RW-M928,HL Mountain Rear Wheel,145.0,M 
+422,CO-WH-RW-R623,LL Road Rear Wheel,50.0,R 
+423,CO-WH-RW-R762,ML Road Rear Wheel,122.0,R 
+424,CO-WH-RW-R820,HL Road Rear Wheel,159.0,R 
+425,CO-WH-RW-T905,Touring Rear Wheel,109.0,T 
+426,CO-MF-FR-M63B-40,ML Mountain Frame - Black- 40,186.0,M 
+427,CO-MF-FR-M63B-44,ML Mountain Frame - Black- 44,186.0,M 
+428,CO-MF-FR-M63B-48,ML Mountain Frame - Black- 48,186.0,M 
+430,CO-RF-FR-R72Y-40,ML Road Frame-W - Yellow- 40,361.0,R 
+432,CO-RF-FR-R72Y-42,ML Road Frame-W - Yellow- 42,361.0,R 
+434,CO-RF-FR-R72Y-44,ML Road Frame-W - Yellow- 44,361.0,R 
+436,CO-RF-FR-R72Y-48,ML Road Frame-W - Yellow- 48,361.0,R 
+438,CO-RF-FR-R92B-62,HL Road Frame - Black- 62,869.0,R 
+440,CO-RF-FR-R92B-44,HL Road Frame - Black- 44,869.0,R 
+442,CO-RF-FR-R92B-48,HL Road Frame - Black- 48,869.0,R 
+444,CO-RF-FR-R92B-52,HL Road Frame - Black- 52,869.0,R 
+445,CL-SH-SH-M897-S,Men's Sports Shorts- S,25.0,S 
+446,AC-PA-PA-T100,Touring-Panniers- Large,52.0,T 
+447,AC-LO-LO-C100,Cable Lock,10.0,S 
+448,AC-PU-PU-0452,Minipump,8.0,S 
+449,AC-PU-PU-M044,Mountain Pump,10.0,M 
+450,AC-LI-LT-T990,Taillights - Battery-Powered,6.0,R 
+451,AC-LI-LT-H902,Headlights - Dual-Beam,14.0,R 
+452,AC-LI-LT-H903,Headlights - Weatherproof,19.0,R 
+453,CL-SH-SH-M897-M,Men's Sports Shorts- M,25.0,S 
+454,CL-SH-SH-M897-L,Men's Sports Shorts- L,25.0,S 
+455,CL-SH-SH-M897-X,Men's Sports Shorts- XL,25.0,S 
+456,CL-TI-TG-W091-S,Women's Tights- S,31.0,S 
+457,CL-TI-TG-W091-M,Women's Tights- M,31.0,S 
+458,CL-TI-TG-W091-L,Women's Tights- L,31.0,S 
+459,CL-BS-SB-M891-S,Men's Bib-Shorts- S,37.0,S 
+460,CL-BS-SB-M891-M,Men's Bib-Shorts- M,37.0,S 
+461,CL-BS-SB-M891-L,Men's Bib-Shorts- L,37.0,S 
+463,CL-GL-GL-H102-S,Half-Finger Gloves- S,9.0,S 
+465,CL-GL-GL-H102-M,Half-Finger Gloves- M,9.0,S 
+467,CL-GL-GL-H102-L,Half-Finger Gloves- L,9.0,S 
+468,CL-GL-GL-F110-S,Full-Finger Gloves- S,16.0,M 
+469,CL-GL-GL-F110-M,Full-Finger Gloves- M,16.0,M 
+470,CL-GL-GL-F110-L,Full-Finger Gloves- L,16.0,M 
+471,CL-VE-VE-C304-S,Classic Vest- S,24.0,S 
+472,CL-VE-VE-C304-M,Classic Vest- M,24.0,S 
+473,CL-VE-VE-C304-L,Classic Vest- L,24.0,S 
+474,CL-SH-SH-W890-S,Women's Mountain Shorts- S,26.0,M 
+475,CL-SH-SH-W890-M,Women's Mountain Shorts- M,26.0,M 
+476,CL-SH-SH-W890-L,Women's Mountain Shorts- L,26.0,M 
+477,AC-BC-WB-H098,Water Bottle - 30 oz.,2.0,S 
+478,AC-BC-BC-M005,Mountain Bottle Cage,4.0,M 
+479,AC-BC-BC-R205,Road Bottle Cage,3.0,R 
+480,AC-TT-PK-7098,Patch Kit/8 Patches,1.0,S 
+481,CL-SO-SO-R809-M,Racing Socks- M,3.0,R 
+482,CL-SO-SO-R809-L,Racing Socks- L,3.0,R 
+483,AC-BR-RA-H123,Hitch Rack - 4-Bike,45.0,S 
+484,AC-CL-CL-9009,Bike Wash - Dissolver,3.0,S 
+485,AC-FE-FE-6654,Fender Set - Mountain,8.0,M 
+486,AC-BS-ST-1401,All-Purpose Bike Stand,59.0,M 
+487,AC-HP-HY-1023-70,Hydration Pack - 70 oz.,21.0,S 
+488,CL-JE-SJ-0194-S,Short-Sleeve Classic Jersey- S,42.0,S 
+489,CL-JE-SJ-0194-M,Short-Sleeve Classic Jersey- M,42.0,S 
+490,CL-JE-SJ-0194-L,Short-Sleeve Classic Jersey- L,42.0,S 
+491,CL-JE-SJ-0194-X,Short-Sleeve Classic Jersey- XL,42.0,S 
+492,CO-TF-FR-T98Y-60,HL Touring Frame - Yellow- 60,602.0,T 
+493,CO-TF-FR-T67Y-62,LL Touring Frame - Yellow- 62,200.0,T 
+494,CO-TF-FR-T98Y-46,HL Touring Frame - Yellow- 46,602.0,T 
+495,CO-TF-FR-T98Y-50,HL Touring Frame - Yellow- 50,602.0,T 
+496,CO-TF-FR-T98Y-54,HL Touring Frame - Yellow- 54,602.0,T 
+497,CO-TF-FR-T98U-46,HL Touring Frame - Blue- 46,602.0,T 
+498,CO-TF-FR-T98U-50,HL Touring Frame - Blue- 50,602.0,T 
+499,CO-TF-FR-T98U-54,HL Touring Frame - Blue- 54,602.0,T 
+500,CO-TF-FR-T98U-60,HL Touring Frame - Blue- 60,602.0,T 
+501,CO-DE-RD-2308,Rear Derailleur,54.0,
+502,CO-TF-FR-T67U-50,LL Touring Frame - Blue- 50,200.0,T 
+503,CO-TF-FR-T67U-54,LL Touring Frame - Blue- 54,200.0,T 
+504,CO-TF-FR-T67U-58,LL Touring Frame - Blue- 58,200.0,T 
+505,CO-TF-FR-T67U-62,LL Touring Frame - Blue- 62,200.0,T 
+506,CO-TF-FR-T67Y-44,LL Touring Frame - Yellow- 44,200.0,T 
+507,CO-TF-FR-T67Y-50,LL Touring Frame - Yellow- 50,200.0,T 
+508,CO-TF-FR-T67Y-54,LL Touring Frame - Yellow- 54,200.0,T 
+509,CO-TF-FR-T67Y-58,LL Touring Frame - Yellow- 58,200.0,T 
+510,CO-TF-FR-T67U-44,LL Touring Frame - Blue- 44,200.0,T 
+511,CO-MF-FR-M63S-40,ML Mountain Frame-W - Silver- 40,199.0,M 
+512,CO-MF-FR-M63S-42,ML Mountain Frame-W - Silver- 42,199.0,M 
+513,CO-MF-FR-M63S-46,ML Mountain Frame-W - Silver- 46,199.0,M 
+514,CO-BR-RB-9231,Rear Brakes,47.0,
+515,CO-SA-SE-M236,LL Mountain Seat/Saddle,12.0,M 
+516,CO-SA-SE-M798,ML Mountain Seat/Saddle,17.0,M 
+517,CO-SA-SE-M940,HL Mountain Seat/Saddle,23.0,M 
+518,CO-SA-SE-R581,LL Road Seat/Saddle,12.0,R 
+519,CO-SA-SE-R908,ML Road Seat/Saddle,17.0,T 
+520,CO-SA-SE-R995,HL Road Seat/Saddle,23.0,R 
+521,CO-SA-SE-T312,LL Touring Seat/Saddle,12.0,T 
+522,CO-SA-SE-T762,ML Touring Seat/Saddle,17.0,T 
+523,CO-SA-SE-T924,HL Touring Seat/Saddle,23.0,T 
+524,CO-MF-FR-M21S-42,LL Mountain Frame - Silver- 42,145.0,M 
+525,CO-MF-FR-M21S-44,LL Mountain Frame - Silver- 44,145.0,M 
+526,CO-MF-FR-M21S-48,LL Mountain Frame - Silver- 48,145.0,M 
+527,CO-MF-FR-M21S-52,LL Mountain Frame - Silver- 52,145.0,M 
+528,AC-TT-TT-M928,Mountain Tire Tube,2.0,M 
+529,AC-TT-TT-R982,Road Tire Tube,1.0,R 
+530,AC-TT-TT-T092,Touring Tire Tube,2.0,T 
+531,CO-MF-FR-M21B-42,LL Mountain Frame - Black- 42,137.0,M 
+532,CO-MF-FR-M21B-44,LL Mountain Frame - Black- 44,137.0,M 
+533,CO-MF-FR-M21B-48,LL Mountain Frame - Black- 48,137.0,M 
+534,CO-MF-FR-M21B-52,LL Mountain Frame - Black- 52,137.0,M 
+535,AC-TT-TI-M267,LL Mountain Tire,9.0,M 
+536,AC-TT-TI-M602,ML Mountain Tire,11.0,M 
+537,AC-TT-TI-M823,HL Mountain Tire,13.0,M 
+538,AC-TT-TI-R092,LL Road Tire,8.0,R 
+539,AC-TT-TI-R628,ML Road Tire,9.0,R 
+540,AC-TT-TI-R982,HL Road Tire,12.0,R 
+541,AC-TT-TI-T723,Touring Tire,11.0,T 
+542,CO-PE-PD-M282,LL Mountain Pedal,18.0,M 
+543,CO-PE-PD-M340,ML Mountain Pedal,28.0,M 
+544,CO-PE-PD-M562,HL Mountain Pedal,36.0,M 
+545,CO-PE-PD-R347,LL Road Pedal,18.0,R 
+546,CO-PE-PD-R563,ML Road Pedal,28.0,R 
+547,CO-PE-PD-R853,HL Road Pedal,36.0,R 
+548,CO-PE-PD-T852,Touring Pedal,36.0,T 
+549,CO-MF-FR-M63S-38,ML Mountain Frame-W - Silver- 38,199.0,M 
+550,CO-MF-FR-M21B-40,LL Mountain Frame - Black- 40,137.0,M 
+551,CO-MF-FR-M21S-40,LL Mountain Frame - Silver- 40,145.0,M 
+552,CO-DE-FD-2342,Front Derailleur,41.0,
+553,CO-HB-HB-T721,LL Touring Handlebars,20.0,T 
+554,CO-HB-HB-T928,HL Touring Handlebars,41.0,T 
+555,CO-BR-FB-9873,Front Brakes,47.0,
+556,CO-CS-CS-4759,LL Crankset,78.0,
+557,CO-CS-CS-6583,ML Crankset,114.0,
+558,CO-CS-CS-9183,HL Crankset,180.0,
+559,CO-CH-CH-0234,Chain,9.0,
+560,BI-TB-BK-T44U-60,Touring-2000 Blue- 60,755.0,T 
+561,BI-TB-BK-T79Y-46,Touring-1000 Yellow- 46,1482.0,T 
+562,BI-TB-BK-T79Y-50,Touring-1000 Yellow- 50,1482.0,T 
+563,BI-TB-BK-T79Y-54,Touring-1000 Yellow- 54,1482.0,T 
+564,BI-TB-BK-T79Y-60,Touring-1000 Yellow- 60,1482.0,T 
+565,BI-TB-BK-T18U-54,Touring-3000 Blue- 54,461.0,T 
+566,BI-TB-BK-T18U-58,Touring-3000 Blue- 58,461.0,T 
+567,BI-TB-BK-T18U-62,Touring-3000 Blue- 62,461.0,T 
+568,BI-TB-BK-T18Y-44,Touring-3000 Yellow- 44,461.0,T 
+569,BI-TB-BK-T18Y-50,Touring-3000 Yellow- 50,461.0,T 
+570,BI-TB-BK-T18Y-54,Touring-3000 Yellow- 54,461.0,T 
+571,BI-TB-BK-T18Y-58,Touring-3000 Yellow- 58,461.0,T 
+572,BI-TB-BK-T18Y-62,Touring-3000 Yellow- 62,461.0,T 
+573,BI-TB-BK-T79U-46,Touring-1000 Blue- 46,1482.0,T 
+574,BI-TB-BK-T79U-50,Touring-1000 Blue- 50,1482.0,T 
+575,BI-TB-BK-T79U-54,Touring-1000 Blue- 54,1482.0,T 
+576,BI-TB-BK-T79U-60,Touring-1000 Blue- 60,1482.0,T 
+577,BI-TB-BK-T44U-46,Touring-2000 Blue- 46,755.0,T 
+578,BI-TB-BK-T44U-50,Touring-2000 Blue- 50,755.0,T 
+579,BI-TB-BK-T44U-54,Touring-2000 Blue- 54,755.0,T 
+580,BI-RB-BK-R79Y-40,Road-350-W Yellow- 40,1083.0,R 
+581,BI-RB-BK-R79Y-42,Road-350-W Yellow- 42,1083.0,R 
+582,BI-RB-BK-R79Y-44,Road-350-W Yellow- 44,1083.0,R 
+583,BI-RB-BK-R79Y-48,Road-350-W Yellow- 48,1083.0,R 
+584,BI-RB-BK-R19B-58,Road-750 Black- 58,344.0,R 
+585,BI-TB-BK-T18U-44,Touring-3000 Blue- 44,461.0,T 
+586,BI-TB-BK-T18U-50,Touring-3000 Blue- 50,461.0,T 
+587,BI-MB-BK-M38S-38,Mountain-400-W Silver- 38,420.0,M 
+588,BI-MB-BK-M38S-40,Mountain-400-W Silver- 40,420.0,M 
+589,BI-MB-BK-M38S-42,Mountain-400-W Silver- 42,420.0,M 
+590,BI-MB-BK-M38S-46,Mountain-400-W Silver- 46,420.0,M 
+591,BI-MB-BK-M18S-40,Mountain-500 Silver- 40,308.0,M 
+592,BI-MB-BK-M18S-42,Mountain-500 Silver- 42,308.0,M 
+593,BI-MB-BK-M18S-44,Mountain-500 Silver- 44,308.0,M 
+594,BI-MB-BK-M18S-48,Mountain-500 Silver- 48,308.0,M 
+595,BI-MB-BK-M18S-52,Mountain-500 Silver- 52,308.0,M 
+596,BI-MB-BK-M18B-40,Mountain-500 Black- 40,295.0,M 
+597,BI-MB-BK-M18B-42,Mountain-500 Black- 42,295.0,M 
+598,BI-MB-BK-M18B-44,Mountain-500 Black- 44,295.0,M 
+599,BI-MB-BK-M18B-48,Mountain-500 Black- 48,295.0,M 
+600,BI-MB-BK-M18B-52,Mountain-500 Black- 52,295.0,M 
+601,CO-BB-BB-7421,LL Bottom Bracket,24.0,
+602,CO-BB-BB-8107,ML Bottom Bracket,45.0,
+603,CO-BB-BB-9108,HL Bottom Bracket,54.0,
+604,BI-RB-BK-R19B-44,Road-750 Black- 44,344.0,R 
+605,BI-RB-BK-R19B-48,Road-750 Black- 48,344.0,R 
+606,BI-RB-BK-R19B-52,Road-750 Black- 52,344.0,R 
